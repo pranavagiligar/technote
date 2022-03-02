@@ -1,6 +1,7 @@
 ---
 title: "How and why this blog has created"
 date: 2022-02-22T01:58:59+05:30
+tags: ["hugo", "blog"]
 draft: false
 ---
 
