@@ -9,7 +9,7 @@ My name is Pranava and I am a computer application engineer. I like to build thi
 
 ### What I can discuss about
 
-`C` `Java` `Kotlin` `Android Native Development` `Firebase` `Networking` `Cordova` `NodeJs` `SprintBoot` `Hugo` `Ghost.org` `Linux` `Mac` `Windows` `Git` `JWT` `RaspberryPi` `ESP32` `ESP8266` `Arduino Nano/Uno` `SIMCom` `Appium` `Jenkins` `Gradle` `BLE` `SQL`
+`C` &bull; `Java` &bull; `Kotlin` &bull; `Android Native Development` &bull; `Firebase` &bull; `Networking` &bull; `Cordova` &bull; `NodeJs` &bull; `SprintBoot` &bull; `Hugo` &bull; `Ghost.org` &bull; `Linux` &bull; `Mac` &bull; `Windows` &bull; `Git` &bull; `JWT` &bull; `RaspberryPi` &bull; `ESP32` &bull; `ESP8266` &bull; `Arduino Nano/Uno` &bull; `SIMCom` &bull; `Appium` &bull; `Jenkins` &bull; `Gradle` &bull; `BLE` &bull; `SQL` &bull; `Apache Derby` &bull;
 
 ### Contact
 
