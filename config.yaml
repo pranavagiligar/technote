@@ -17,7 +17,10 @@ imaging:
 params:
   description: Useful tech related notes to keep track of my findings and share it to public
   homeMetaContent: Useful tech related notes to keep track of my findings and share it to public
-  footer: Copyright MIT 2022 @giligar.xyz
+  # footer: Copyright MIT 2022 @giligar.xyz
+  footer: >
+    © 2022 MIT &bull;
+    [Git](https://github.com/pranavagiligar/technote)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   katex: true
