@@ -1,6 +1,6 @@
 [**Technote**](https://technote.giligar.xyz)
 
-A personal tech blog, developed using the [Hugo](https://gohugo.io/) static site generator and deployed in [Netlify](https://www.netlify.com/)
+A personal tech blog, developed using the [Hugo](https://gohugo.io/) static site generator and deployed on [Netlify](https://www.netlify.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c523bf5-c4ad-47a0-9e38-ce2db3b964e3/deploy-status)](https://app.netlify.com/sites/zen-euclid-cb1235/deploys)
 
@@ -21,5 +21,7 @@ Deploy to Netlify
 1. Push the code Github/Gitlab or keep it locally at your own risk!
 2. Setup Netlify by adding project from Github/Gitlab or upload directly
 3. Once deploy complete, you will get netlify subdomain where you can open the project
+
+Create new post: using `hugo new post/post_file_name.md`
 
 License: MIT
