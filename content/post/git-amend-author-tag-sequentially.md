@@ -1,5 +1,5 @@
 ---
-title: "Amend your author tag of one or more commits sequentially"
+title: "Amend your git author tag of one or more commits sequentially"
 date: 2022-03-03T02:26:33+05:30
 tags: ["git"]
 draft: false
